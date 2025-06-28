@@ -54,8 +54,7 @@
   <header>
     <h1>Jyoti Kumari</h1>
     <p>Frontend Developer</p>
-    
-    <h2 class="section-title">Contact</h2>
+    <p> class="section-title">Contact</p>
     <p>Email: jyotidhanarua@gmail.com</p>
     <p>Phone: +919905687092</p>
     <a href="https://www.linkedin.com/in/jyoti-kumari" target="_blank"> LinkedIn </a>
