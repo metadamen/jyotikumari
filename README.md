@@ -54,11 +54,16 @@
   <header>
     <h1>Jyoti Kumari</h1>
     <p>Frontend Developer</p>
-    <p>
-      📧 <a href="mailto:jyotidhanarua@gmail.com">jyotidhanarua@gmail.com</a> | 📱 +919905687092<br>
-      🔗 <a href="https://www.linkedin.com/in/jyoti-kumari" target="_blank">LinkedIn</a> |
-      <a href="https://github.com/Kjyoti25" target="_blank">GitHub</a>
-    </p>
+    
+      <section>
+    <h2 class="section-title">Contact</h2>
+    <p>Email: jyotidhanarua@gmail.com</p>
+    <p>Phone: +919905687092</p>
+    <a href="https://www.linkedin.com/in/jyoti-kumari" target="_blank">LinkedIn</a>
+    <a href="https://github.com/metadamen/jyotikumari" target="_blank"> GitHub Profile</a>
+</section>
+      
+     
   </header>
 
   <div class="container">
