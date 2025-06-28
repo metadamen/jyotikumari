@@ -55,13 +55,12 @@
     <h1>Jyoti Kumari</h1>
     <p>Frontend Developer</p>
     
-      <section>
     <h2 class="section-title">Contact</h2>
     <p>Email: jyotidhanarua@gmail.com</p>
     <p>Phone: +919905687092</p>
-    <a href="https://www.linkedin.com/in/jyoti-kumari" target="_blank">LinkedIn</a>
-    <a href="https://github.com/metadamen/jyotikumari" target="_blank"> GitHub Profile</a>
-</section>
+    <a href="https://www.linkedin.com/in/jyoti-kumari" target="_blank"> LinkedIn </a>
+    <a href="https://metadamen.github.io/jyotikumari/" target="_blank"> GitHub Profile </a>
+
       
      
   </header>
