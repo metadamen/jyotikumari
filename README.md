@@ -53,7 +53,7 @@
     <h1>Jyoti Kumari</h1>
     <p>Frontend Developer</p>
     <p>
-      📧 <a href="mailto:jyotidhanarua@gmail.com">jyotidhanarua@gmail.com</a> | 📱 +91 9905687092<br>
+      📧 <a href="mailto:jyotidhanarua@gmail.com">jyotidhanarua@gmail.com</a> | 📱 +919905687092<br>
       🔗 <a href="https://www.linkedin.com/in/jyoti-kumari" target="_blank">LinkedIn</a> |
       <a href="https://github.com/Kjyoti25" target="_blank">GitHub</a>
     </p>
